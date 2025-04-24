@@ -12,6 +12,8 @@ A CounterStrikeSharp plugin that broadcasts 100 Buddhist teachings in-game, supp
 - Color-coded messages for visual appeal.
 - Admin commands for self-check and reload (`css_100buddhist`).
 
+![image](https://github.com/qazlll456/100Buddhist/blob/master/buddhist1.png)
+
 ## Donate
 If you enjoy it and find it helpful, consider donating to me! Every bit helps me keep developing.
 Money, Steam games, or any valuable contribution is welcome.
